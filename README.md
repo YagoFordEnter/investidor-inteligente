@@ -98,7 +98,7 @@ Os estudos foram convertidos em uma infraestrutura de vendas real como diferenci
 
 | Recurso | Link |
 |---|---|
-| 🔗 **Landing Page de Vendas (GitHub Pages)** | [yago-silva-ads.github.io/investidor-inteligente](https://yago-silva-ads.github.io/investidor-inteligente/) |
+| 🔗 **Landing Page de Vendas (GitHub Pages)** | [yago-silva-ads.github.io/investidor-inteligente](https://yagofordenter.github.io/investidor-inteligente/) |
 | 🛒 **Checkout Kiwify** | [Adquira o eBook aqui — R$ 10,00](https://pay.kiwify.com.br/pUDitcM) |
 
 ---
